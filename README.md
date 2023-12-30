@@ -5,15 +5,15 @@ Manual data entry of retail store bills is time-consuming and prone to errors. T
 ### Problem Statement: 
 
 Manually entering data from retail store bills is:
-- **Extremely Time-Consuming: It takes a significant amount of time to manually enter data from each bill.
-- **Prone to Errors: Human errors during manual data entry lead to inaccuracies.
+- **Extremely Time-Consuming**: It takes a significant amount of time to manually enter data from each bill.
+- **Prone to Errors**: Human errors during manual data entry lead to inaccuracies.
 
 ### Project Overview :
 
 This project utilizes Optical Character Recognition (OCR) techniques and regular expressions for text extraction from retail store bills. It comprises the following key components:
-- *Data Preprocessing using Regular Expressions*: Utilizes regular expressions to preprocess the bill images/text before extraction.
-- *OCR-based Text Extraction*: Implements OCR techniques to extract text information from bill images.
-- *Automation of Data Entry*: Automates the extraction process to minimize manual intervention.
+- **Data Preprocessing using Regular Expressions**: Utilizes regular expressions to preprocess the bill images/text before extraction.
+- **OCR-based Text Extraction**: Implements OCR techniques to extract text information from bill images.
+- **Automation of Data Entry**: Automates the extraction process to minimize manual intervention.
 
 ### Features: 
 
@@ -23,10 +23,10 @@ This project utilizes Optical Character Recognition (OCR) techniques and regular
 
 ### Technologies Used
 
-- OCR Library: *PaddleOCR*
+- OCR Library: **PaddleOCR**
 - Regular Expressions: Used for preprocessing tasks such as cleaning and formatting text data.
-- Programming Language: Python
-- Database : *SQL
+- Programming Language: **Python**
+- Database : **SQL**
 
 ### Usage
 
